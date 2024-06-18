@@ -78,7 +78,3 @@ The Car Rental project is a web-based application developed using Django, a high
 
 #### Conclusion
 The Car Rental project using Django aims to provide a comprehensive solution for car rental businesses, enhancing user experience and operational efficiency. By leveraging Django's powerful features and scalability, the project can be easily extended and maintained, ensuring long-term success and user satisfaction.
-
----
-
-If you have any specific requirements or need further details on any section, feel free to let me know!
