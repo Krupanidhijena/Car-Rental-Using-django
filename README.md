@@ -4,7 +4,7 @@
 The Car Rental project is a web-based application developed using Django, a high-level Python web framework. The project aims to streamline the process of renting cars, providing a user-friendly interface for customers and a robust management system for car rental businesses. 
 ![op4](https://github.com/user-attachments/assets/54e45c8f-8d95-4ea9-839a-0a6cb9c2fa77)![op6-min](https://github.com/user-attachments/assets/e34b1013-c29f-4542-8d46-63950b6f6bca)
 
-![op3](https://github.com/user-attachments/assets/110f3e40-a6![op2-min](https://github.com/user-attachments/assets/44c6b5ee-add9-4e1d-9099-e3cae5c43921)
+![op2-min](https://github.com/user-attachments/assets/44c6b5ee-add9-4e1d-9099-e3cae5c43921)
 8c-465e-8fe3-e8039aa43028)
 ![op2](https://github.com/user-attachments/assets/b47e3999-a1d4-4241-94a1-0f89780fe57![op6](https://github.com/user-attachments/assets/8ed94c62-c9ec-46cc-9dc7-821bc177d748)
 7)
